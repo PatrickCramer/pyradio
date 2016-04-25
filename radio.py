@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# PyRadio: Curses based Internet Radio Player
+# PyRadio: Curses based Internet Radio Player.
 # http://www.coderholic.com/pyradio
 # Ben Dowling - 2009 - 2010
 # Kirill Klenov - 2012
